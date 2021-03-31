@@ -5,3 +5,4 @@ rencana modif santafe
   * merek balance
   * merek prime
 - pasang strutbar
+- pasang rollbar

@@ -2,3 +2,6 @@ Hai, ini adalah initial file
 
 initial file ini buat belajar git
 
+tambahan 1 record
+
+tambahan 2 record

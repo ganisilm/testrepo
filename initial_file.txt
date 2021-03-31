@@ -1,0 +1,4 @@
+Hai, ini adalah initial file
+
+initial file ini buat belajar git
+

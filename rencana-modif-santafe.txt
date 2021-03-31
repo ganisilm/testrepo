@@ -4,4 +4,4 @@ rencana modif santafe
 - pasang damper
   * merek balance
   * merek prime
-  * merek DOMO
+- pasang strutbar

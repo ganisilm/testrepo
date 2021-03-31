@@ -2,6 +2,7 @@ rencana modif santafe
 - modif HU dengan tombol
 - tambahkan OCT
 - pasang damper
-  * merek balance
-  * merek prime
-  * merek DOMO
+  * merek blalabla
+  * merek blablabla2
+  * merek blablabla3
+- Pasang paddleshift
